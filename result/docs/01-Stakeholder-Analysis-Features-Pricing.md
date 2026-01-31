@@ -142,7 +142,7 @@ Screens were captured from the live WattOS Figma prototype. Total **119 screen c
 | Frontend development | 260 | 52 |
 | Data engineering & pipelines | 50 | 10 |
 | QA & testing | 110 | 22 |
-| **Total effort** | **~700** | **~140** |
+| **Total effort** | **~760** | **~152** |
 
 *Timeline: 38–44 weeks with a team of 5 resources (1 Architect, 1 AI engineer from Phase 2, 2 Full-stack developers, 1 QA).*
 

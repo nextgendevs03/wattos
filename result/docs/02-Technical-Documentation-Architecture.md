@@ -198,7 +198,7 @@ flowchart TB
 | AI service (Python) | — | 20 | — | 5 | 25 |
 | Infrastructure & DevOps | — | 22 | — | 6 | 28 |
 | Integration & E2E testing | — | 12 | 14 | 16 | 42 |
-| **Total** | **~70+** | **~330** | **~260** | **~130** | **~720** |
+| **Total** | **~70+** | **~370** | **~260** | **~130** | **~760** |
 
 *Screens count includes main screens and key modals; backend/QA include Python data pipeline and AI service.*
 
